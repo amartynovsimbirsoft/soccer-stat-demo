@@ -1,5 +1,11 @@
 <template>
   <div>
+    <v-btn
+      prepend-icon="$vuetify"
+      stacked
+    >
+      Моя кнопка
+    </v-btn>
     <input
       v-model="search"
       placeholder="Поиск лиги"
@@ -43,7 +49,7 @@ const filteredPartipants = computed(() =>
 
 const goToLeague = (id) => {
   console.log(id);
-  router.push(`/league/${id}`) // Переходим на маршрут /league/:id
+  router.push(`/match/${id}`) // Переходим на маршрут /match/:id
 }
 
 const fetchParticipants = async () => {
