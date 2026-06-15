@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "name": "Premier League",
+    "stadium": "Wembley Stadium"
+  },
+  {
+    "id": 2,
+    "name": "La Liga",
+    "stadium": "Camp Nou"
+  },
+  {
+    "id": 3,
+    "name": "Serie A",
+    "stadium": "San Siro"
+  },
+  {
+    "id": 4,
+    "name": "Bundesliga",
+    "stadium": "Allianz Arena"
+  },
+  {
+    "id": 5,
+    "name": "Ligue 1",
+    "stadium": "Parc des Princes"
+  },
+  {
+    "id": 6,
+    "name": "Primeira Liga",
+    "stadium": "Estádio da Luz"
+  },
+  {
+    "id": 7,
+    "name": "Eredivisie",
+    "stadium": "Johan Cruijff Arena"
+  },
+  {
+    "id": 8,
+    "name": "Russian Premier League",
+    "stadium": "Luzhniki Stadium"
+  },
+  {
+    "id": 9,
+    "name": "Turkish Süper Lig",
+    "stadium": "Türk Telekom Stadium"
+  },
+  {
+    "id": 10,
+    "name": "Belgian Pro League",
+    "stadium": "King Baudouin Stadium"
+  },
+  {
+    "id": 11,
+    "name": "Swiss Super League",
+    "stadium": "St. Jakob-Park"
+  },
+  {
+    "id": 12,
+    "name": "Austrian Bundesliga",
+    "stadium": "Red Bull Arena"
+  },
+  {
+    "id": 13,
+    "name": "Scottish Premiership",
+    "stadium": "Celtic Park"
+  },
+  {
+    "id": 14,
+    "name": "Greek Super League",
+    "stadium": "Olympic Stadium Athens"
+  },
+  {
+    "id": 15,
+    "name": "Czech First League",
+    "stadium": "Eden Arena"
+  },
+  {
+    "id": 16,
+    "name": "Croatian First League",
+    "stadium": "Stadion Maksimir"
+  },
+  {
+    "id": 17,
+    "name": "Danish Superliga",
+    "stadium": "Parken Stadium"
+  },
+  {
+    "id": 18,
+    "name": "Norwegian Eliteserien",
+    "stadium": "Ullevaal Stadion"
+  },
+  {
+    "id": 19,
+    "name": "Swedish Allsvenskan",
+    "stadium": "Friends Arena"
+  },
+  {
+    "id": 20,
+    "name": "Polish Ekstraklasa",
+    "stadium": "PGE Narodowy"
+  },
+  {
+    "id": 21,
+    "name": "Ukrainian Premier League",
+    "stadium": "Olimpiyskiy Stadium"
+  },
+  {
+    "id": 22,
+    "name": "Romanian Liga I",
+    "stadium": "Arena Națională"
+  },
+  {
+    "id": 23,
+    "name": "Hungarian NB I",
+    "stadium": "Groupama Arena"
+  },
+  {
+    "id": 24,
+    "name": "Bulgarian First League",
+    "stadium": "Vasil Levski Stadium"
+  },
+  {
+    "id": 25,
+    "name": "Serbian SuperLiga",
+    "stadium": "Red Star Stadium"
+  },
+  {
+    "id": 26,
+    "name": "Israeli Premier League",
+    "stadium": "Sammy Ofer Stadium"
+  },
+  {
+    "id": 27,
+    "name": "Cyprus First Division",
+    "stadium": "GSP Stadium"
+  },
+  {
+    "id": 28,
+    "name": "Slovenian PrvaLiga",
+    "stadium": "Stožice Stadium"
+  },
+  {
+    "id": 29,
+    "name": "Slovak Super Liga",
+    "stadium": "Tehelné pole"
+  },
+  {
+    "id": 30,
+    "name": "Luxembourg National Division",
+    "stadium": "Stade de Luxembourg"
+  }
+]
